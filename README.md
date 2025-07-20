@@ -2,5 +2,4 @@
 
 Collection of PythonMaps Examples. 
 
-![alt text](https://github.com/symmy596/PythonMapsExamples/blob/main/resources/world.png) 
-
+![alt text](http://github.com/symmy596/PythonMaps/blob/main/resources/world.png) 
