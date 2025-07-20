@@ -1,0 +1,13 @@
+.idea
+**/*.pyc
+**/*.checkpoint.ipynb
+**/*.tif
+**/*.geojson
+**/*.dbf
+**/*.lyr
+**/*.prj
+**/*.sbn
+**/*.sbx
+**/*.shp
+**/*.shp.xml
+**/*.shx
