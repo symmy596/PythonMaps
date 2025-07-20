@@ -3,7 +3,7 @@
 Example for creating an interactive contour line topography plot with pyvista. 
 
 
-![alt text](https://github.com/symmy596/PythonMapsExamples/blob/main/pyvista_contour_lines/resources/output.png) 
+![alt text](https://github.com/symmy596/PythonMaps/blob/main/pyvista_contour_lines/resources/output.png) 
 
 
 #### Data
